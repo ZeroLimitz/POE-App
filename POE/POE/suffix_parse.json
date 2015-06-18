@@ -1,0 +1,1932 @@
+{
+	"Suffixes": [{
+		"Suffix Type": "Accuracy",
+		"Suffixes": [{
+			"name": "of Calm",
+			"level": "1",
+			"stat": "Accuracy Rating",
+			"value": "5 to 15",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Steadiness",
+			"level": "12",
+			"stat": "Accuracy Rating",
+			"value": "16 to 60",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Accuracy",
+			"level": "20",
+			"stat": "Accuracy Rating",
+			"value": "61 to 100",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Accuracy (Master Crafted)",
+			"level": "20",
+			"stat": "Accuracy Rating",
+			"value": "91 to 120",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Accuracy (Master Crafted)",
+			"level": "20",
+			"stat": "Accuracy Rating",
+			"value": "91 to 120",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Precision",
+			"level": "26",
+			"stat": "Accuracy Rating",
+			"value": "101 to 130",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Precision (Master Crafted)",
+			"level": "30",
+			"stat": "Accuracy Rating",
+			"value": "121 to 150",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Precision (Master Crafted)",
+			"level": "30",
+			"stat": "Accuracy Rating",
+			"value": "121 to 150",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Sniper",
+			"level": "33",
+			"stat": "Accuracy Rating",
+			"value": "131 to 165",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Marksman",
+			"level": "41",
+			"stat": "Accuracy Rating",
+			"value": "166 to 200",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Deadeye",
+			"level": "50",
+			"stat": "Accuracy Rating",
+			"value": "201 to 250",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Ranger",
+			"level": "63",
+			"stat": "Accuracy Rating",
+			"value": "251 to 320",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Assassin",
+			"level": "76",
+			"stat": "Accuracy Rating",
+			"value": "321 to 400",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Shining",
+			"level": "8",
+			"stat1": "Light Radius +%",
+			"stat2": "Accuracy Rating",
+			"value1": "5",
+			"value2": "10 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Light",
+			"level": "15",
+			"stat1": "Light Radius +%",
+			"stat2": "Accuracy Rating",
+			"value1": "10",
+			"value2": "21 to 40",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Radiance",
+			"level": "30",
+			"stat1": "Light Radius +%",
+			"stat2": "Accuracy Rating +%",
+			"value1": "15",
+			"value2": "5 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Calm",
+			"level": "1",
+			"stat": "Local Accuracy Rating",
+			"value": "5 to 15",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Steadiness",
+			"level": "12",
+			"stat": "Local Accuracy Rating",
+			"value": "16 to 60",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Accuracy",
+			"level": "20",
+			"stat": "Local Accuracy Rating",
+			"value": "61 to 100",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Precision",
+			"level": "26",
+			"stat": "Local Accuracy Rating",
+			"value": "101 to 130",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Sniper",
+			"level": "33",
+			"stat": "Local Accuracy Rating",
+			"value": "131 to 165",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Marksman",
+			"level": "41",
+			"stat": "Local Accuracy Rating",
+			"value": "166 to 200",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Deadeye",
+			"level": "50",
+			"stat": "Local Accuracy Rating",
+			"value": "201 to 250",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Ranger",
+			"level": "63",
+			"stat": "Local Accuracy Rating",
+			"value": "251 to 320",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Armour",
+		"Suffixes": [{
+			"name": "of Reinforcement (Master Crafted)",
+			"level": "50",
+			"stat": "Physical Damage Reduction Rating +%",
+			"value": "5 to 20",
+			"isMasterCrafted": true
+		}]
+	}, {
+		"Suffix Type": "Attack Speed",
+		"Suffixes": [{
+			"name": "of Skill",
+			"level": "1",
+			"stat": "Attack Speed +%",
+			"value": "5 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ease",
+			"level": "11",
+			"stat": "Attack Speed +%",
+			"value": "8 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ease (Master Crafted)",
+			"level": "20",
+			"stat": "Attack Speed +%",
+			"value": "9 to 12",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Ease (Master Crafted)",
+			"level": "20",
+			"stat": "Attack Speed +%",
+			"value": "7 to 12",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Mastery",
+			"level": "22",
+			"stat": "Attack Speed +%",
+			"value": "11 to 13",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Grandmastery",
+			"level": "76",
+			"stat": "Attack Speed +%",
+			"value": "14 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Skill",
+			"level": "1",
+			"stat": "Local Attack Speed +%",
+			"value": "6 to 9",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ease",
+			"level": "11",
+			"stat": "Local Attack Speed +%",
+			"value": "5 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ease (Master Crafted)",
+			"level": "20",
+			"stat": "Local Attack Speed +%",
+			"value": "7 to 12",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Mastery (Master Crafted)",
+			"level": "20",
+			"stat": "Local Attack Speed +%",
+			"value": "8 to 11",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Mastery",
+			"level": "22",
+			"stat": "Local Attack Speed +%",
+			"value": "11 to 13",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Renown",
+			"level": "30",
+			"stat": "Local Attack Speed +%",
+			"value": "14 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Renown (Master Crafted)",
+			"level": "30",
+			"stat": "Local Attack Speed +%",
+			"value": "12 to 15",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Acclaim",
+			"level": "37",
+			"stat": "Local Attack Speed +%",
+			"value": "17 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Fame",
+			"level": "45",
+			"stat": "Local Attack Speed +%",
+			"value": "20 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Infamy",
+			"level": "60",
+			"stat": "Local Attack Speed +%",
+			"value": "23 to 25",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Celebration",
+			"level": "77",
+			"stat": "Local Attack Speed +%",
+			"value": "26 to 27",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Attribute Increase",
+		"Suffixes": [{
+			"name": "of the Clouds",
+			"level": "1",
+			"stat": "Additional All Attributes",
+			"value": "1 to 4",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Sky",
+			"level": "11",
+			"stat": "Additional All Attributes",
+			"value": "5 to 8",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Meteor (Master Crafted)",
+			"level": "20",
+			"stat": "Additional All Attributes",
+			"value": "11 to 14",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Sky (Master Crafted)",
+			"level": "20",
+			"stat": "Additional All Attributes",
+			"value": "6 to 11",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Meteor",
+			"level": "22",
+			"stat": "Additional All Attributes",
+			"value": "9 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Comet",
+			"level": "33",
+			"stat": "Additional All Attributes",
+			"value": "13 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Heavens",
+			"level": "44",
+			"stat": "Additional All Attributes",
+			"value": "17 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Galaxy",
+			"level": "55",
+			"stat": "Additional All Attributes",
+			"value": "21 to 24",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Universe",
+			"level": "66",
+			"stat": "Additional All Attributes",
+			"value": "25 to 28",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Infinite",
+			"level": "77",
+			"stat": "Additional All Attributes",
+			"value": "29 to 32",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Mongoose",
+			"level": "1",
+			"stat": "Additional Dexterity",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Lynx",
+			"level": "11",
+			"stat": "Additional Dexterity",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Lynx (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Dexterity",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Lynx (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Dexterity",
+			"value": "20 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Lynx (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Dexterity",
+			"value": "20 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Fox",
+			"level": "22",
+			"stat": "Additional Dexterity",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Fox (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Dexterity",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Fox (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Dexterity",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Fox (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Dexterity",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Falcon",
+			"level": "33",
+			"stat": "Additional Dexterity",
+			"value": "23 to 27",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Panther",
+			"level": "44",
+			"stat": "Additional Dexterity",
+			"value": "28 to 32",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Leopard",
+			"level": "55",
+			"stat": "Additional Dexterity",
+			"value": "33 to 37",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Jaguar",
+			"level": "66",
+			"stat": "Additional Dexterity",
+			"value": "38 to 42",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Phantasm",
+			"level": "74",
+			"stat": "Additional Dexterity",
+			"value": "43 to 50",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Pupil",
+			"level": "1",
+			"stat": "Additional Intelligence",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Student",
+			"level": "11",
+			"stat": "Additional Intelligence",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Student (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Intelligence",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Student (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Intelligence",
+			"value": "20 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Prodigy",
+			"level": "22",
+			"stat": "Additional Intelligence",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Prodigy (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Intelligence",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Prodigy (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Intelligence",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Augur",
+			"level": "33",
+			"stat": "Additional Intelligence",
+			"value": "23 to 27",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Philosopher",
+			"level": "44",
+			"stat": "Additional Intelligence",
+			"value": "28 to 32",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Sage",
+			"level": "55",
+			"stat": "Additional Intelligence",
+			"value": "33 to 37",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Savant",
+			"level": "66",
+			"stat": "Additional Intelligence",
+			"value": "38 to 42",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Virtuoso",
+			"level": "74",
+			"stat": "Additional Intelligence",
+			"value": "43 to 50",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Brute",
+			"level": "1",
+			"stat": "Additional Strength",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Wrestler",
+			"level": "11",
+			"stat": "Additional Strength",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Wrestler (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Strength",
+			"value": "20 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Wrestler (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Strength",
+			"value": "20 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Wrestler (Master Crafted)",
+			"level": "15",
+			"stat": "Additional Strength",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Bear",
+			"level": "22",
+			"stat": "Additional Strength",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Bear (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Strength",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Bear (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Strength",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Bear (Master Crafted)",
+			"level": "25",
+			"stat": "Additional Strength",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Lion",
+			"level": "33",
+			"stat": "Additional Strength",
+			"value": "23 to 27",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Gorilla",
+			"level": "44",
+			"stat": "Additional Strength",
+			"value": "28 to 32",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Goliath",
+			"level": "55",
+			"stat": "Additional Strength",
+			"value": "33 to 37",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Leviathan",
+			"level": "66",
+			"stat": "Additional Strength",
+			"value": "38 to 42",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Titan",
+			"level": "74",
+			"stat": "Additional Strength",
+			"value": "43 to 50",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Cast Speed",
+		"Suffixes": [{
+			"name": "of Talent",
+			"level": "2",
+			"stat": "Base Cast Speed +%",
+			"value": "5 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Nimbleness",
+			"level": "15",
+			"stat": "Base Cast Speed +%",
+			"value": "8 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Nimbleness (Master Crafted)",
+			"level": "20",
+			"stat": "Base Cast Speed +%",
+			"value": "9 to 11",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Expertise",
+			"level": "30",
+			"stat": "Base Cast Speed +%",
+			"value": "11 to 13",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Talent (Master Crafted)",
+			"level": "30",
+			"stat": "Base Cast Speed +%",
+			"value": "4 to 8",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Legerdemain",
+			"level": "40",
+			"stat": "Base Cast Speed +%",
+			"value": "14 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Prestidigitation",
+			"level": "55",
+			"stat": "Base Cast Speed +%",
+			"value": "17 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Sortilege",
+			"level": "72",
+			"stat": "Base Cast Speed +%",
+			"value": "20 to 22",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Critical Strike",
+		"Suffixes": [{
+			"name": "of Ire",
+			"level": "8",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ire",
+			"level": "8",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "10 to 14",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Anger (Master Crafted)",
+			"level": "20",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "17 to 21",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Anger (Master Crafted)",
+			"level": "20",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "17 to 21",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Anger",
+			"level": "21",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "15 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Anger",
+			"level": "21",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "13 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Rage (Master Crafted)",
+			"level": "30",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "22 to 27",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Rage (Master Crafted)",
+			"level": "30",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "22 to 27",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Rage",
+			"level": "30",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "20 to 24",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Rage",
+			"level": "31",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "20 to 24",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Fury",
+			"level": "44",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "25 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Fury",
+			"level": "45",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "25 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ferocity",
+			"level": "59",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "30 to 34",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ferocity",
+			"level": "59",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "30 to 34",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Destruction",
+			"level": "73",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "35 to 38",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Destruction",
+			"level": "74",
+			"stat": "Base Critical Strike Multiplier +%",
+			"value": "35 to 38",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Needling",
+			"level": "5",
+			"stat": "Critical Strike Chance +%",
+			"value": "10 to 14",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Stinging (Master Crafted)",
+			"level": "20",
+			"stat": "Critical Strike Chance +%",
+			"value": "17 to 21",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Needling (Master Crafted)",
+			"level": "20",
+			"stat": "Critical Strike Chance +%",
+			"value": "12 to 16",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Stinging",
+			"level": "20",
+			"stat": "Critical Strike Chance +%",
+			"value": "15 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Piercing (Master Crafted)",
+			"level": "30",
+			"stat": "Critical Strike Chance +%",
+			"value": "22 to 27",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Puncturing (Master Crafted)",
+			"level": "30",
+			"stat": "Critical Strike Chance +%",
+			"value": "27 to 32",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Piercing",
+			"level": "30",
+			"stat": "Critical Strike Chance +%",
+			"value": "20 to 24",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Puncturing",
+			"level": "44",
+			"stat": "Critical Strike Chance +%",
+			"value": "25 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Penetrating",
+			"level": "58",
+			"stat": "Critical Strike Chance +%",
+			"value": "30 to 34",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Incision",
+			"level": "72",
+			"stat": "Critical Strike Chance +%",
+			"value": "35 to 38",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Needling",
+			"level": "1",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "10 to 14",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Stinging (Master Crafted)",
+			"level": "20",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "17 to 21",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Stinging",
+			"level": "20",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "15 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Stinging (Master Crafted)",
+			"level": "20",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "17 to 21",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Piercing (Master Crafted)",
+			"level": "30",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "22 to 27",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Piercing (Master Crafted)",
+			"level": "30",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "22 to 27",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Piercing",
+			"level": "30",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "20 to 24",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Puncturing",
+			"level": "44",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "25 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Penetrating",
+			"level": "59",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "30 to 34",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Incision",
+			"level": "73",
+			"stat": "Local Critical Strike Chance +%",
+			"value": "35 to 38",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Menace",
+			"level": "11",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "11 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Havoc (Master Crafted)",
+			"level": "20",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "30 to 49",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Havoc",
+			"level": "21",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "20 to 39",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Disaster",
+			"level": "28",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "40 to 59",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Disaster (Master Crafted)",
+			"level": "30",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "50 to 69",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Calamity",
+			"level": "41",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "60 to 79",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ruin",
+			"level": "59",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "80 to 99",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Unmaking",
+			"level": "76",
+			"stat": "Spell Critical Strike Chance +%",
+			"value": "100 to 109",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Elemental Damage Scaling",
+		"Suffixes": [{
+			"name": "of Snow",
+			"level": "12",
+			"stat": "Cold Damage +%",
+			"value": "3 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Sleet (Master Crafted)",
+			"level": "20",
+			"stat": "Cold Damage +%",
+			"value": "10 to 14",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Sleet",
+			"level": "24",
+			"stat": "Cold Damage +%",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ice (Master Crafted)",
+			"level": "30",
+			"stat": "Cold Damage +%",
+			"value": "15 to 19",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Ice",
+			"level": "36",
+			"stat": "Cold Damage +%",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Rime",
+			"level": "50",
+			"stat": "Cold Damage +%",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Floe",
+			"level": "64",
+			"stat": "Cold Damage +%",
+			"value": "23 to 26",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Glaciation",
+			"level": "76",
+			"stat": "Cold Damage +%",
+			"value": "27 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Embers",
+			"level": "8",
+			"stat": "Fire Damage +%",
+			"value": "3 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Coals (Master Crafted)",
+			"level": "20",
+			"stat": "Fire Damage +%",
+			"value": "10 to 14",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Coals",
+			"level": "22",
+			"stat": "Fire Damage +%",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Cinders (Master Crafted)",
+			"level": "30",
+			"stat": "Fire Damage +%",
+			"value": "15 to 19",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Cinders",
+			"level": "36",
+			"stat": "Fire Damage +%",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Flames",
+			"level": "50",
+			"stat": "Fire Damage +%",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Immolation",
+			"level": "64",
+			"stat": "Fire Damage +%",
+			"value": "23 to 26",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Ashes",
+			"level": "76",
+			"stat": "Fire Damage +%",
+			"value": "27 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Sparks",
+			"level": "10",
+			"stat": "Lightning Damage +%",
+			"value": "3 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Static (Master Crafted)",
+			"level": "20",
+			"stat": "Lightning Damage +%",
+			"value": "10 to 14",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Static",
+			"level": "23",
+			"stat": "Lightning Damage +%",
+			"value": "8 to 12",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Electricity (Master Crafted)",
+			"level": "30",
+			"stat": "Lightning Damage +%",
+			"value": "15 to 19",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Electricity",
+			"level": "36",
+			"stat": "Lightning Damage +%",
+			"value": "13 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Voltage",
+			"level": "50",
+			"stat": "Lightning Damage +%",
+			"value": "18 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Discharge",
+			"level": "64",
+			"stat": "Lightning Damage +%",
+			"value": "23 to 26",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Arcing",
+			"level": "76",
+			"stat": "Lightning Damage +%",
+			"value": "27 to 30",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Energy Shield",
+		"Suffixes": [{
+			"name": "of Fearlessness (Master Crafted)",
+			"level": "50",
+			"stat": "Maximum Energy Shield +%",
+			"value": "5 to 20",
+			"isMasterCrafted": true
+		}]
+	}, {
+		"Suffix Type": "Evasion",
+		"Suffixes": [{
+			"name": "of Blurring (Master Crafted)",
+			"level": "50",
+			"stat": "Evasion Rating +%",
+			"value": "5 to 20",
+			"isMasterCrafted": true
+		}]
+	}, {
+		"Suffix Type": "Flask",
+		"Suffixes": [{
+			"name": "of Fending",
+			"level": "9",
+			"stat": "Local Flask Adds Knockback While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Iron Skin",
+			"level": "6",
+			"stat": "Local Flask Armour +% While Healing",
+			"value": "60 to 100",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Staunching",
+			"level": "8",
+			"stat": "Local Flask Bleeding Immunity While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Heat",
+			"level": "4",
+			"stat": "Local Flask Chill And Freeze Immunity While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Warding",
+			"level": "18",
+			"stat": "Local Flask Curse Immunity While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Reflexes",
+			"level": "8",
+			"stat": "Local Flask Evasion +% While Healing",
+			"value": "60 to 100",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Dousing",
+			"level": "6",
+			"stat": "Local Flask Ignite Immunity While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Gluttony",
+			"level": "10",
+			"stat": "Local Flask Life Leech % While Healing",
+			"value": "2",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Craving",
+			"level": "12",
+			"stat": "Local Flask Mana Leech % While Healing",
+			"value": "2",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Animation",
+			"level": "10",
+			"stat": "Local Flask Minion Heal %",
+			"value": "40 to 60",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Adrenaline",
+			"level": "5",
+			"stat": "Local Flask Movement Speed +% While Healing",
+			"value": "20 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Resistance",
+			"level": "1",
+			"stat": "Local Flask Resistances +% While Healing",
+			"value": "20 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Grounding",
+			"level": "10",
+			"stat": "Local Flask Shock Immunity While Healing",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Steadiness",
+			"level": "1",
+			"stat": "Local Flask Stun Recovery +% While Healing",
+			"value": "40 to 60",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Flask Effects",
+		"Suffixes": [{
+			"name": "of Refilling",
+			"level": "2",
+			"stat": "Charges Gained +%",
+			"value": "10 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Sipping",
+			"level": "3",
+			"stat": "Flask Charges Used +%",
+			"value": "-20 to -10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Savouring",
+			"level": "7",
+			"stat": "Flask Duration +%",
+			"value": "10 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Savouring (Master Crafted)",
+			"level": "20",
+			"stat": "Flask Duration +%",
+			"value": "5 to 15",
+			"isMasterCrafted": true
+		}]
+	}, {
+		"Suffix Type": "Item Acquisition",
+		"Suffixes": [{
+			"name": "of Plunder",
+			"level": "3",
+			"stat": "Base Item Found Rarity +%",
+			"value": "6 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Raiding",
+			"level": "30",
+			"stat": "Base Item Found Rarity +%",
+			"value": "11 to 14",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Raiding (Master Crafted)",
+			"level": "30",
+			"stat": "Base Item Found Rarity +%",
+			"value": "13 to 17",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Archaeology",
+			"level": "53",
+			"stat": "Base Item Found Rarity +%",
+			"value": "15 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Excavation",
+			"level": "75",
+			"stat": "Base Item Found Rarity +%",
+			"value": "21 to 26",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Life Gain Per Target",
+		"Suffixes": [{
+			"name": "of Rejuvenation",
+			"level": "8",
+			"stat": "Base Life Gain Per Target",
+			"value": "2",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Rejuvenation (Master Crafted)",
+			"level": "20",
+			"stat": "Base Life Gain Per Target",
+			"value": "1 to 2",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Restoration",
+			"level": "20",
+			"stat": "Base Life Gain Per Target",
+			"value": "3",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Rejuvenation (Master Crafted)",
+			"level": "20",
+			"stat": "Base Life Gain Per Target",
+			"value": "2 to 3",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Regrowth",
+			"level": "30",
+			"stat": "Base Life Gain Per Target",
+			"value": "4",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Nourishment",
+			"level": "40",
+			"stat": "Base Life Gain Per Target",
+			"value": "5",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Life Gained on Enemy Death",
+		"Suffixes": [{
+			"name": "of Success",
+			"level": "1",
+			"stat": "Base Life Gained On Enemy Death",
+			"value": "2 to 4",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Victory",
+			"level": "23",
+			"stat": "Base Life Gained On Enemy Death",
+			"value": "5 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Triumph",
+			"level": "40",
+			"stat": "Base Life Gained On Enemy Death",
+			"value": "8 to 11",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Life Regeneration",
+		"Suffixes": [{
+			"name": "of the Newt",
+			"level": "1",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "60 to 120",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Lizard",
+			"level": "18",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "121 to 180",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Starfish",
+			"level": "30",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "181 to 240",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Hydra",
+			"level": "44",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "241 to 300",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Troll",
+			"level": "59",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "301 to 360",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Phoenix",
+			"level": "78",
+			"stat": "Base Life Regeneration Rate Per Minute",
+			"value": "361 to 420",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Mana Gained on Enemy Death",
+		"Suffixes": [{
+			"name": "of Absorption",
+			"level": "1",
+			"stat": "Base Mana Gained On Enemy Death",
+			"value": "1",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Osmosis",
+			"level": "24",
+			"stat": "Base Mana Gained On Enemy Death",
+			"value": "2 to 3",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Consumption",
+			"level": "40",
+			"stat": "Base Mana Gained On Enemy Death",
+			"value": "4 to 6",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Mana Regeneration",
+		"Suffixes": [{
+			"name": "of Excitement",
+			"level": "2",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "10 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Joy",
+			"level": "18",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "20 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Joy (Master Crafted)",
+			"level": "20",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "25 to 34",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Joy (Master Crafted)",
+			"level": "20",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "25 to 34",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Elation",
+			"level": "29",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "30 to 39",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Elation (Master Crafted)",
+			"level": "30",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "35 to 44",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Bliss",
+			"level": "42",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "40 to 49",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Euphoria",
+			"level": "55",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "50 to 59",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Nirvana",
+			"level": "79",
+			"stat": "Mana Regeneration Rate +%",
+			"value": "60 to 69",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Projectile Speed",
+		"Suffixes": [{
+			"name": "of Darting",
+			"level": "14",
+			"stat": "Base Projectile Speed +%",
+			"value": "10 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Flight (Master Crafted)",
+			"level": "25",
+			"stat": "Base Projectile Speed +%",
+			"value": "10 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Flight",
+			"level": "27",
+			"stat": "Base Projectile Speed +%",
+			"value": "18 to 25",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Propulsion",
+			"level": "41",
+			"stat": "Base Projectile Speed +%",
+			"value": "26 to 33",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Zephyr",
+			"level": "55",
+			"stat": "Base Projectile Speed +%",
+			"value": "34 to 41",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Reduced Attribute Requirements",
+		"Suffixes": [{
+			"name": "of the Worthy",
+			"level": "36",
+			"stat": "Local Attribute Requirements +%",
+			"value": "-18",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Apt",
+			"level": "60",
+			"stat": "Local Attribute Requirements +%",
+			"value": "-32",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Resistance",
+		"Suffixes": [{
+			"name": "of the Lost",
+			"level": "16",
+			"stat": "Base Chaos Damage Resistance %",
+			"value": "5 to 10",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Banishment",
+			"level": "30",
+			"stat": "Base Chaos Damage Resistance %",
+			"value": "11 to 15",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Eviction",
+			"level": "44",
+			"stat": "Base Chaos Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Expulsion",
+			"level": "56",
+			"stat": "Base Chaos Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Exile",
+			"level": "65",
+			"stat": "Base Chaos Damage Resistance %",
+			"value": "26 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Inuit",
+			"level": "1",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "6 to 11",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Seal",
+			"level": "14",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "12 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Penguin (Master Crafted)",
+			"level": "20",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Penguin (Master Crafted)",
+			"level": "20",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Penguin (Master Crafted)",
+			"level": "20",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Penguin (Master Crafted)",
+			"level": "20",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Penguin",
+			"level": "26",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "18 to 23",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Yeti (Master Crafted)",
+			"level": "30",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Yeti (Master Crafted)",
+			"level": "30",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Yeti (Master Crafted)",
+			"level": "30",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Yeti (Master Crafted)",
+			"level": "30",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Yeti",
+			"level": "38",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "24 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Walrus",
+			"level": "50",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "30 to 35",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Polar Bear",
+			"level": "60",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "36 to 41",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Ice",
+			"level": "72",
+			"stat": "Base Cold Damage Resistance %",
+			"value": "42 to 45",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Whelpling",
+			"level": "1",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "6 to 11",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Salamander",
+			"level": "12",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "12 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Drake (Master Crafted)",
+			"level": "20",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Drake (Master Crafted)",
+			"level": "20",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Drake (Master Crafted)",
+			"level": "20",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Drake (Master Crafted)",
+			"level": "20",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Drake",
+			"level": "24",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "18 to 23",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Kiln (Master Crafted)",
+			"level": "30",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Kiln (Master Crafted)",
+			"level": "30",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Kiln (Master Crafted)",
+			"level": "30",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Kiln (Master Crafted)",
+			"level": "30",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Kiln",
+			"level": "36",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "24 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Furnace",
+			"level": "48",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "30 to 35",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Volcano",
+			"level": "60",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "36 to 41",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Magma",
+			"level": "72",
+			"stat": "Base Fire Damage Resistance %",
+			"value": "42 to 45",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Cloud",
+			"level": "1",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "6 to 11",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Squall",
+			"level": "13",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "12 to 17",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Storm (Master Crafted)",
+			"level": "20",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Storm (Master Crafted)",
+			"level": "20",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Storm (Master Crafted)",
+			"level": "20",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Storm (Master Crafted)",
+			"level": "20",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "16 to 20",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Storm",
+			"level": "25",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "18 to 23",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Thunderhead (Master Crafted)",
+			"level": "30",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Thunderhead (Master Crafted)",
+			"level": "30",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Thunderhead (Master Crafted)",
+			"level": "30",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "26 to 30",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Thunderhead (Master Crafted)",
+			"level": "30",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "21 to 25",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Thunderhead",
+			"level": "37",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "24 to 29",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Tempest",
+			"level": "49",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "30 to 35",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Maelstrom",
+			"level": "60",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "36 to 41",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Lightning",
+			"level": "72",
+			"stat": "Base Lightning Damage Resistance %",
+			"value": "42 to 45",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Crystal",
+			"level": "12",
+			"stat": "Base Resist All Elements %",
+			"value": "3 to 5",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Prism (Master Crafted)",
+			"level": "20",
+			"stat": "Base Resist All Elements %",
+			"value": "7 to 10",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Prism",
+			"level": "24",
+			"stat": "Base Resist All Elements %",
+			"value": "6 to 8",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Kaleidoscope",
+			"level": "36",
+			"stat": "Base Resist All Elements %",
+			"value": "9 to 11",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Variegation",
+			"level": "48",
+			"stat": "Base Resist All Elements %",
+			"value": "12 to 14",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Rainbow",
+			"level": "60",
+			"stat": "Base Resist All Elements %",
+			"value": "15 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Thundersnow (Master Crafted)",
+			"level": "35",
+			"stat": "Cold And Lightning Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Thundersnow (Master Crafted)",
+			"level": "35",
+			"stat": "Cold And Lightning Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Chimaera (Master Crafted)",
+			"level": "35",
+			"stat": "Fire And Cold Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Chimaera (Master Crafted)",
+			"level": "35",
+			"stat": "Fire And Cold Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Ashcloud (Master Crafted)",
+			"level": "35",
+			"stat": "Fire And Lightning Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}, {
+			"name": "of the Ashcloud (Master Crafted)",
+			"level": "35",
+			"stat": "Fire And Lightning Damage Resistance %",
+			"value": "8 to 13",
+			"isMasterCrafted": true
+		}]
+	}, {
+		"Suffix Type": "Shield Block",
+		"Suffixes": [{
+			"name": "of Intercepting",
+			"level": "10",
+			"stat": "Local Additional Block Chance %",
+			"value": "1 to 3",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Intercepting (Master Crafted)",
+			"level": "30",
+			"stat": "Local Additional Block Chance %",
+			"value": "2 to 3",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Walling",
+			"level": "58",
+			"stat": "Local Additional Block Chance %",
+			"value": "4 to 6",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Stun",
+		"Suffixes": [{
+			"name": "of Impact",
+			"level": "5",
+			"stat": "Base Stun Duration +%",
+			"value": "11 to 15",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Dazing",
+			"level": "18",
+			"stat": "Base Stun Duration +%",
+			"value": "16 to 20",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Stunning (Master Crafted)",
+			"level": "20",
+			"stat": "Base Stun Duration +%",
+			"value": "23 to 28",
+			"isMasterCrafted": true
+		}, {
+			"name": "of Stunning",
+			"level": "30",
+			"stat": "Base Stun Duration +%",
+			"value": "21 to 25",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Slamming",
+			"level": "44",
+			"stat": "Base Stun Duration +%",
+			"value": "26 to 30",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Staggering",
+			"level": "58",
+			"stat": "Base Stun Duration +%",
+			"value": "31 to 35",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Pugilist",
+			"level": "5",
+			"stat": "Base Stun Threshold Reduction +%",
+			"value": "5 to 7",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Brawler",
+			"level": "20",
+			"stat": "Base Stun Threshold Reduction +%",
+			"value": "8 to 9",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Boxer",
+			"level": "30",
+			"stat": "Base Stun Threshold Reduction +%",
+			"value": "10 to 11",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Combatant",
+			"level": "44",
+			"stat": "Base Stun Threshold Reduction +%",
+			"value": "12 to 13",
+			"isMasterCrafted": false
+		}, {
+			"name": "of the Gladiator",
+			"level": "58",
+			"stat": "Base Stun Threshold Reduction +%",
+			"value": "14 to 15",
+			"isMasterCrafted": false
+		}]
+	}, {
+		"Suffix Type": "Stun Recovery",
+		"Suffixes": [{
+			"name": "of Thick Skin",
+			"level": "1",
+			"stat": "Base Stun Recovery +%",
+			"value": "11 to 13",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Stone Skin",
+			"level": "17",
+			"stat": "Base Stun Recovery +%",
+			"value": "14 to 16",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Iron Skin",
+			"level": "28",
+			"stat": "Base Stun Recovery +%",
+			"value": "17 to 19",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Steel Skin",
+			"level": "42",
+			"stat": "Base Stun Recovery +%",
+			"value": "20 to 22",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Adamantite Skin",
+			"level": "56",
+			"stat": "Base Stun Recovery +%",
+			"value": "23 to 25",
+			"isMasterCrafted": false
+		}, {
+			"name": "of Corundum Skin",
+			"level": "79",
+			"stat": "Base Stun Recovery +%",
+			"value": "26 to 28",
+			"isMasterCrafted": false
+		}]
+	}]
+}
