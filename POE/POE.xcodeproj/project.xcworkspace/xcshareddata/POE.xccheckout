@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>20274107-7925-4595-95DE-5EB303C0871D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>POE</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BC77CFD98A95272C92EDD8204D0D7E73EDF7FEE0</key>
 		<string>github.com:ZeroLimitz/POE-App.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>POE/POE.xcodeproj/project.xcworkspace</string>
+	<string>POE/POE.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BC77CFD98A95272C92EDD8204D0D7E73EDF7FEE0</key>

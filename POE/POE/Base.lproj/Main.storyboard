@@ -112,10 +112,10 @@
             </objects>
             <point key="canvasLocation" x="151" y="-41"/>
         </scene>
-        <!--View Controller-->
+        <!--Prefix View Contoller-->
         <scene sceneID="nW4-xV-FPs">
             <objects>
-                <viewController id="lOJ-nT-xut" sceneMemberID="viewController">
+                <viewController id="lOJ-nT-xut" customClass="PrefixViewContoller" customModule="POE" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VOb-ex-kEa"/>
                         <viewControllerLayoutGuide type="bottom" id="v78-No-nt2"/>
@@ -140,7 +140,7 @@
                                 <rect key="frame" x="0.0" y="64" width="320" height="504"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="BEL-ir-vb6">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="prefix" id="BEL-ir-vb6">
                                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="BEL-ir-vb6" id="t78-Y8-TQT">
@@ -148,6 +148,10 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                 </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="lOJ-nT-xut" id="qDD-i5-Xag"/>
+                                    <outlet property="delegate" destination="lOJ-nT-xut" id="BnK-bu-jP2"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -162,6 +166,9 @@
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="prefixTypeTable" destination="G8A-yY-acK" id="eO5-b6-RXI"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Mfu-5e-tnV" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -195,7 +202,7 @@
                                 <rect key="frame" x="0.0" y="64" width="320" height="504"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="ZrB-2D-C7h">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="suffix" id="ZrB-2D-C7h">
                                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ZrB-2D-C7h" id="pNW-8f-gyP">
@@ -224,6 +231,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="GN0-Cq-EG8"/>
+        <segue reference="5S1-sv-vvB"/>
     </inferredMetricsTieBreakers>
 </document>

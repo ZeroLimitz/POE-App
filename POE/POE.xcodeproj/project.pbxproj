@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		357F0E411B39BFF10024901A /* PrefixViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357F0E401B39BFF10024901A /* PrefixViewContoller.swift */; };
 		35F531521B33324800952645 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F531511B33324800952645 /* AppDelegate.swift */; };
 		35F531551B33324900952645 /* POE.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 35F531531B33324900952645 /* POE.xcdatamodeld */; };
 		35F531571B33324900952645 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F531561B33324900952645 /* ViewController.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		357F0E401B39BFF10024901A /* PrefixViewContoller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrefixViewContoller.swift; sourceTree = "<group>"; };
 		35F5314C1B33324800952645 /* POE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = POE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35F531501B33324800952645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35F531511B33324800952645 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				35F531511B33324800952645 /* AppDelegate.swift */,
 				35F531561B33324900952645 /* ViewController.swift */,
 				35F531781B33342700952645 /* AffixViewController.swift */,
+				357F0E401B39BFF10024901A /* PrefixViewContoller.swift */,
 				35F531581B33324900952645 /* Main.storyboard */,
 				35F5315B1B33324900952645 /* Images.xcassets */,
 				35F5315D1B33324900952645 /* LaunchScreen.xib */,
@@ -226,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				357F0E411B39BFF10024901A /* PrefixViewContoller.swift in Sources */,
 				35F531571B33324900952645 /* ViewController.swift in Sources */,
 				35F531791B33342700952645 /* AffixViewController.swift in Sources */,
 				35F531551B33324900952645 /* POE.xcdatamodeld in Sources */,
@@ -427,6 +431,7 @@
 				35F531701B33324A00952645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		35F531711B33324A00952645 /* Build configuration list for PBXNativeTarget "POETests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +440,7 @@
 				35F531731B33324A00952645 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
