@@ -47,10 +47,10 @@ class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDat
         
         let cell = self.prefixTypeTable.cellForRowAtIndexPath(indexPath)
         
+        
+        // Set Prefix Array for next view
         prefixArray = row?.valueForKey("Prefixes") as! NSArray
         
-        //performSegueWithIdentifier("prefixesViewSegue", sender: cell)
-
     }
     
     override func viewDidLoad() {
