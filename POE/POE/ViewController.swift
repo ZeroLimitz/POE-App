@@ -8,12 +8,19 @@
 
 import UIKit
 
+func valueRGB(number: Int) -> CGFloat {
+    
+    var colorValue = Double(number) / 255.0
+    
+    return CGFloat(floor(100*colorValue)/100)
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
+        valueRGB(165)
     }
 
     override func didReceiveMemoryWarning() {
