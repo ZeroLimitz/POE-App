@@ -27,7 +27,7 @@ class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDat
         let row = prefixTypeArray[indexPath.row] as? NSDictionary
         
         if indexPath.row % 2 == 1 {
-            cell.backgroundColor = UIColor(red: 25.0/255.0, green: 25.0/255.0, blue: 25.0/255.0, alpha: 0.5)
+            cell.backgroundColor = UIColor(red: valueRGB(25), green: valueRGB(25), blue: valueRGB(25), alpha: 0.5)
         } else {
             cell.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1)
         }
@@ -66,7 +66,7 @@ class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDat
             prefixTypeTable.reloadData()
         }
         
-        self.prefixTypeTable.backgroundColor = UIColor(red: 13.0/255.0, green: 15.0/255.0, blue: 13.0/255.0, alpha: 1)
+        self.prefixTypeTable.backgroundColor = UIColor(red: valueRGB(13), green: valueRGB(15), blue: valueRGB(13), alpha: 1)
     }
     
     override func viewDidAppear(animated: Bool) {

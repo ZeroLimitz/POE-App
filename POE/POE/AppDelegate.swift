@@ -25,6 +25,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // use UITableViewCell.appearance() to configure
         // the default appearance of all UITableViewCells in your app
         UITableViewCell.appearance().selectedBackgroundView = colorView
+        UITableViewCell.appearance().textLabel?.textColor = UIColor(red: valueRGB(163), green: valueRGB(141), blue: valueRGB(109), alpha: 1)
+        
+        UITableView.appearance().separatorStyle = UITableViewCellSeparatorStyle.None
         
         return true
     }
