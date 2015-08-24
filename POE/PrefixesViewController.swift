@@ -24,7 +24,7 @@ class PrefixesViewController: UIViewController, UITableViewDelegate, UITableView
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         
-        let cell: AffixTableCellTableViewCell = self.prefixesTableView.dequeueReusableCellWithIdentifier("cell") as! AffixTableCellTableViewCell
+        let cell: AffixTableCellTableViewCell = self.prefixesTableView.dequeueReusableCellWithIdentifier("affixCell") as! AffixTableCellTableViewCell
         
         let currentRow: AnyObject = (prefixArray[indexPath.row] as? NSDictionary)!
         
@@ -62,14 +62,14 @@ class PrefixesViewController: UIViewController, UITableViewDelegate, UITableView
     }
     
     func tableView(tableView: UITableView, heightForRowAtIndexPath indexPath: NSIndexPath) -> CGFloat {
-        return 100
+        return 125
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         var nib = UINib(nibName: "AffixTableCell", bundle: nil)
-        prefixesTableView.registerNib(nib, forCellReuseIdentifier: "cell")
+        prefixesTableView.registerNib(nib, forCellReuseIdentifier: "affixCell")
         
         self.prefixesTableView.backgroundColor = UIColor(red: valueRGB(13), green: valueRGB(15), blue: valueRGB(13), alpha: 1)
     }

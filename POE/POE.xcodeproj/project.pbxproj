@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		357F0E411B39BFF10024901A /* PrefixViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 357F0E401B39BFF10024901A /* PrefixViewContoller.swift */; };
 		35CF155C1B3B3D5D000D3E7C /* PrefixesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CF155B1B3B3D5D000D3E7C /* PrefixesViewController.swift */; };
-		35CF15601B3B5BA9000D3E7C /* prefix_parse.json in Resources */ = {isa = PBXBuildFile; fileRef = 35CF155F1B3B5BA9000D3E7C /* prefix_parse.json */; };
 		35D887391B60099100AB9BB8 /* AffixTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35D887381B60099100AB9BB8 /* AffixTableCell.xib */; };
 		35D8873B1B600B3400AB9BB8 /* AffixTableCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35D8873A1B600B3400AB9BB8 /* AffixTableCellTableViewCell.swift */; };
 		35F531521B33324800952645 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F531511B33324800952645 /* AppDelegate.swift */; };
@@ -19,8 +18,10 @@
 		35F5315C1B33324900952645 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35F5315B1B33324900952645 /* Images.xcassets */; };
 		35F5315F1B33324900952645 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35F5315D1B33324900952645 /* LaunchScreen.xib */; };
 		35F5316B1B33324A00952645 /* POETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F5316A1B33324A00952645 /* POETests.swift */; };
-		35F531771B3332F700952645 /* suffix_parse.json in Resources */ = {isa = PBXBuildFile; fileRef = 35F531751B3332F700952645 /* suffix_parse.json */; };
 		35F531791B33342700952645 /* AffixViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F531781B33342700952645 /* AffixViewController.swift */; };
+		BF3DEAD71B86800700281F25 /* AffixTableCell2.xib in Resources */ = {isa = PBXBuildFile; fileRef = BF3DEAD61B86800700281F25 /* AffixTableCell2.xib */; };
+		BF9AAF9A1B6BD74600B91F68 /* prefix_parse.json in Resources */ = {isa = PBXBuildFile; fileRef = BF9AAF991B6BD74600B91F68 /* prefix_parse.json */; };
+		BF9AAF9C1B6BD75B00B91F68 /* suffix_parse.json in Resources */ = {isa = PBXBuildFile; fileRef = BF9AAF9B1B6BD75B00B91F68 /* suffix_parse.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +37,6 @@
 /* Begin PBXFileReference section */
 		357F0E401B39BFF10024901A /* PrefixViewContoller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrefixViewContoller.swift; sourceTree = "<group>"; };
 		35CF155B1B3B3D5D000D3E7C /* PrefixesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrefixesViewController.swift; path = ../PrefixesViewController.swift; sourceTree = "<group>"; };
-		35CF155F1B3B5BA9000D3E7C /* prefix_parse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = prefix_parse.json; path = ../../../POE/prefix_parse.json; sourceTree = "<group>"; };
 		35D887381B60099100AB9BB8 /* AffixTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AffixTableCell.xib; sourceTree = "<group>"; };
 		35D8873A1B600B3400AB9BB8 /* AffixTableCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AffixTableCellTableViewCell.swift; sourceTree = "<group>"; };
 		35F5314C1B33324800952645 /* POE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = POE.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -50,8 +50,10 @@
 		35F531641B33324900952645 /* POETests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = POETests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35F531691B33324900952645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35F5316A1B33324A00952645 /* POETests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POETests.swift; sourceTree = "<group>"; };
-		35F531751B3332F700952645 /* suffix_parse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = suffix_parse.json; path = ../../../POE/suffix_parse.json; sourceTree = "<group>"; };
 		35F531781B33342700952645 /* AffixViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AffixViewController.swift; sourceTree = "<group>"; };
+		BF3DEAD61B86800700281F25 /* AffixTableCell2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AffixTableCell2.xib; sourceTree = "<group>"; };
+		BF9AAF991B6BD74600B91F68 /* prefix_parse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = prefix_parse.json; sourceTree = "<group>"; };
+		BF9AAF9B1B6BD75B00B91F68 /* suffix_parse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = suffix_parse.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,11 +95,12 @@
 		35F5314E1B33324800952645 /* POE */ = {
 			isa = PBXGroup;
 			children = (
-				35D887381B60099100AB9BB8 /* AffixTableCell.xib */,
-				35CF155F1B3B5BA9000D3E7C /* prefix_parse.json */,
-				35F531751B3332F700952645 /* suffix_parse.json */,
+				BF9AAF991B6BD74600B91F68 /* prefix_parse.json */,
+				BF9AAF9B1B6BD75B00B91F68 /* suffix_parse.json */,
 				35F531511B33324800952645 /* AppDelegate.swift */,
 				35F531561B33324900952645 /* ViewController.swift */,
+				35D887381B60099100AB9BB8 /* AffixTableCell.xib */,
+				BF3DEAD61B86800700281F25 /* AffixTableCell2.xib */,
 				35D8873A1B600B3400AB9BB8 /* AffixTableCellTableViewCell.swift */,
 				35F531781B33342700952645 /* AffixViewController.swift */,
 				35CF155B1B3B3D5D000D3E7C /* PrefixesViewController.swift */,
@@ -218,9 +221,10 @@
 			files = (
 				35F5315A1B33324900952645 /* Main.storyboard in Resources */,
 				35F5315F1B33324900952645 /* LaunchScreen.xib in Resources */,
-				35CF15601B3B5BA9000D3E7C /* prefix_parse.json in Resources */,
+				BF9AAF9A1B6BD74600B91F68 /* prefix_parse.json in Resources */,
 				35D887391B60099100AB9BB8 /* AffixTableCell.xib in Resources */,
-				35F531771B3332F700952645 /* suffix_parse.json in Resources */,
+				BF9AAF9C1B6BD75B00B91F68 /* suffix_parse.json in Resources */,
+				BF3DEAD71B86800700281F25 /* AffixTableCell2.xib in Resources */,
 				35F5315C1B33324900952645 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
