@@ -38,7 +38,9 @@ class PrefixesViewController: UIViewController, UITableViewDelegate, UITableView
         cell.affixName?.textColor = UIColor(red: valueRGB(163), green: valueRGB(141), blue: valueRGB(109), alpha: 1)
         cell.affixStat?.textColor = UIColor(red: valueRGB(163), green: valueRGB(141), blue: valueRGB(109), alpha: 1)
         cell.affixValue?.textColor = UIColor(red: valueRGB(163), green: valueRGB(141), blue: valueRGB(109), alpha: 1)
+        cell.affixLevel?.textColor = UIColor(red: valueRGB(163), green: valueRGB(141), blue: valueRGB(109), alpha: 1)
         cell.affixName?.text = currentRow.valueForKey("name")! as? String
+        cell.affixLevel?.text = currentRow.valueForKey("level")! as? String
         
         if((currentRow.valueForKey("stat1")) != nil) {
             cell.affixStat?.text = currentRow.valueForKey("stat1")! as? String

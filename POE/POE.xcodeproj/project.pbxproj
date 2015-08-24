@@ -93,11 +93,11 @@
 		35F5314E1B33324800952645 /* POE */ = {
 			isa = PBXGroup;
 			children = (
+				35D887381B60099100AB9BB8 /* AffixTableCell.xib */,
 				35CF155F1B3B5BA9000D3E7C /* prefix_parse.json */,
 				35F531751B3332F700952645 /* suffix_parse.json */,
 				35F531511B33324800952645 /* AppDelegate.swift */,
 				35F531561B33324900952645 /* ViewController.swift */,
-				35D887381B60099100AB9BB8 /* AffixTableCell.xib */,
 				35D8873A1B600B3400AB9BB8 /* AffixTableCellTableViewCell.swift */,
 				35F531781B33342700952645 /* AffixViewController.swift */,
 				35CF155B1B3B3D5D000D3E7C /* PrefixesViewController.swift */,

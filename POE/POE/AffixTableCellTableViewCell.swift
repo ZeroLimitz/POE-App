@@ -13,6 +13,8 @@ class AffixTableCellTableViewCell: UITableViewCell {
     @IBOutlet weak var affixName: UILabel!
     @IBOutlet weak var affixStat: UILabel!
     @IBOutlet weak var affixValue: UILabel!
+    @IBOutlet weak var affixLevel: UILabel!
+    
     
     
     override func awakeFromNib() {

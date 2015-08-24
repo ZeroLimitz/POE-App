@@ -9,6 +9,7 @@
 import UIKit
 
 var prefixArray : NSArray = []
+var AffixTitle : String = ""
 
 class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
@@ -50,6 +51,7 @@ class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDat
         
         // Set Prefix Array for next view
         prefixArray = row?.valueForKey("Prefixes") as! NSArray
+        AffixTitle = row?.valueForKey("Prefix Type") as! String
         
     }
     
@@ -66,6 +68,7 @@ class PrefixViewContoller: UIViewController, UITableViewDelegate, UITableViewDat
             prefixTypeTable.reloadData()
         }
         
+        self.title = "Prefixes"
         self.prefixTypeTable.backgroundColor = UIColor(red: valueRGB(13), green: valueRGB(15), blue: valueRGB(13), alpha: 1)
     }
     
